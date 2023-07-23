@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 VIGNESH  C (https://codepen.io/vignesh-058-it/pen/VwXqGOG)
+Copyright (c) 2023 VIGNESH  C (https://codepen.io/vignesh-058-it/pen/PoxBaOx)
+Fork of an original work  (https://codepen.io/vignesh-058-it/pen/PoxBaOx)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
